@@ -1,0 +1,250 @@
+id,nombre,descripcion,precio,stock
+1,Te Dharamsala,Bebidas,18,39
+2,Cerveza tibetana Barley,Bebidas,19,17
+3,Sirope de regaliz,Condimentos,10,13
+4,Especias Cajun del chef Anton,Condimentos,22,53
+5,Mezcla Gumbo del chef Anton,Condimentos,21.35,0
+6,Mermelada de grosellas de la abuela,Condimentos,25,120
+7,Peras secas organicas del tio Bob,Frutas/Verduras,30,15
+8,Salsa de arandanos Northwoods,Condimentos,40,6
+9,Buey Mishi Kobe,Carnes,97,29
+10,Pez espada,Pescado/Marisco,31,31
+11,Queso Cabrales,Lacteos,21,22
+12,Queso Manchego La Pastora,Lacteos,38,86
+13,Algas Konbu,Pescado/Marisco,6,24
+14,Cuajada de judias,Frutas/Verduras,23.25,35
+15,Salsa de soja baja en sodio,Condimentos,15.5,39
+16,Postre de merengue Pavlova,Reposteria,17.45,29
+17,Te Dharamsala,Bebidas,28.46625,39
+18,Cerveza tibetana Barley,Bebidas,28.62,39
+19,Sirope de regaliz,Condimentos,28.77375,40
+20,Especias Cajun del chef Anton,Condimentos,28.9275,40
+21,Mezcla Gumbo del chef Anton,Condimentos,29.08125,40
+22,Mermelada de grosellas de la abuela,Condimentos,29.235,41
+23,Peras secas organicas del tio Bob,Frutas/Verduras,29.38875,41
+24,Salsa de arandanos Northwoods,Condimentos,29.5425,42
+25,Buey Mishi Kobe,Carnes,29.69625,42
+26,Pez espada,Pescado/Marisco,29.85,43
+27,Queso Cabrales,Lacteos,30.00375,43
+28,Queso Manchego La Pastora,Lacteos,30.1575,43
+29,Algas Konbu,Pescado/Marisco,30.31125,44
+30,Cuajada de judias,Frutas/Verduras,30.465,44
+31,Salsa de soja baja en sodio,Condimentos,30.61875,45
+32,Postre de merengue Pavlova,Reposteria,30.7725,45
+33,Te Dharamsala,Bebidas,30.92625,46
+34,Cerveza tibetana Barley,Bebidas,31.08,46
+35,Sirope de regaliz,Condimentos,31.23375,47
+36,Especias Cajun del chef Anton,Condimentos,31.3875,47
+37,Mezcla Gumbo del chef Anton,Condimentos,31.54125,47
+38,Mermelada de grosellas de la abuela,Condimentos,31.695,48
+39,Peras secas organicas del tio Bob,Frutas/Verduras,31.84875,48
+40,Salsa de arandanos Northwoods,Condimentos,32.0025,49
+41,Buey Mishi Kobe,Carnes,32.15625,49
+42,Pez espada,Pescado/Marisco,32.31,50
+43,Queso Cabrales,Lacteos,32.46375,50
+44,Queso Manchego La Pastora,Lacteos,32.6175,51
+45,Algas Konbu,Pescado/Marisco,32.77125,51
+46,Cuajada de judias,Frutas/Verduras,32.925,51
+47,Salsa de soja baja en sodio,Condimentos,33.07875,52
+48,Postre de merengue Pavlova,Reposteria,33.2325,52
+49,Te Dharamsala,Bebidas,33.38625,53
+50,Cerveza tibetana Barley,Bebidas,33.54,53
+51,Sirope de regaliz,Condimentos,33.69375,54
+52,Especias Cajun del chef Anton,Condimentos,33.8475,54
+53,Mezcla Gumbo del chef Anton,Condimentos,34.00125,55
+54,Mermelada de grosellas de la abuela,Condimentos,34.155,55
+55,Peras secas organicas del tio Bob,Frutas/Verduras,34.30875,55
+56,Salsa de arandanos Northwoods,Condimentos,34.4625,56
+57,Buey Mishi Kobe,Carnes,34.61625,56
+58,Pez espada,Pescado/Marisco,34.77,57
+59,Queso Cabrales,Lacteos,34.92375,57
+60,Queso Manchego La Pastora,Lacteos,35.0775,58
+61,Algas Konbu,Pescado/Marisco,35.23125,58
+62,Cuajada de judias,Frutas/Verduras,35.385,58
+63,Salsa de soja baja en sodio,Condimentos,35.53875,59
+64,Postre de merengue Pavlova,Reposteria,35.6925,59
+65,Te Dharamsala,Bebidas,35.84625,60
+66,Cerveza tibetana Barley,Bebidas,36,60
+67,Sirope de regaliz,Condimentos,36.15375,61
+68,Especias Cajun del chef Anton,Condimentos,36.3075,61
+69,Mezcla Gumbo del chef Anton,Condimentos,36.46125,62
+70,Mermelada de grosellas de la abuela,Condimentos,36.615,62
+71,Peras secas organicas del tio Bob,Frutas/Verduras,36.76875,62
+72,Salsa de arandanos Northwoods,Condimentos,36.9225,63
+73,Buey Mishi Kobe,Carnes,37.07625,63
+74,Pez espada,Pescado/Marisco,37.23,64
+75,Queso Cabrales,Lacteos,37.38375,64
+76,Queso Manchego La Pastora,Lacteos,37.5375,65
+77,Algas Konbu,Pescado/Marisco,37.69125,65
+78,Cuajada de judias,Frutas/Verduras,37.845,66
+79,Salsa de soja baja en sodio,Condimentos,37.99875,66
+80,Postre de merengue Pavlova,Reposteria,38.1525,66
+81,Te Dharamsala,Bebidas,38.30625,67
+82,Cerveza tibetana Barley,Bebidas,38.46,67
+83,Sirope de regaliz,Condimentos,38.61375,68
+84,Especias Cajun del chef Anton,Condimentos,38.7675,68
+85,Mezcla Gumbo del chef Anton,Condimentos,38.92125,69
+86,Mermelada de grosellas de la abuela,Condimentos,39.075,69
+87,Peras secas organicas del tio Bob,Frutas/Verduras,39.22875,70
+88,Salsa de arandanos Northwoods,Condimentos,39.3825,70
+89,Buey Mishi Kobe,Carnes,39.53625,70
+90,Pez espada,Pescado/Marisco,39.69,71
+91,Queso Cabrales,Lacteos,39.84375,71
+92,Queso Manchego La Pastora,Lacteos,39.9975,72
+93,Algas Konbu,Pescado/Marisco,40.15125,72
+94,Cuajada de judias,Frutas/Verduras,40.305,73
+95,Salsa de soja baja en sodio,Condimentos,40.45875,73
+96,Postre de merengue Pavlova,Reposteria,40.6125,73
+97,Te Dharamsala,Bebidas,40.76625,74
+98,Cerveza tibetana Barley,Bebidas,40.92,74
+99,Sirope de regaliz,Condimentos,41.07375,75
+100,Especias Cajun del chef Anton,Condimentos,41.2275,75
+101,Mezcla Gumbo del chef Anton,Condimentos,41.38125,76
+102,Mermelada de grosellas de la abuela,Condimentos,41.535,76
+103,Peras secas organicas del tio Bob,Frutas/Verduras,41.68875,77
+104,Salsa de arandanos Northwoods,Condimentos,41.8425,77
+105,Buey Mishi Kobe,Carnes,41.99625,77
+106,Pez espada,Pescado/Marisco,42.15,78
+107,Queso Cabrales,Lacteos,42.30375,78
+108,Queso Manchego La Pastora,Lacteos,42.4575,79
+109,Algas Konbu,Pescado/Marisco,42.61125,79
+110,Cuajada de judias,Frutas/Verduras,42.765,80
+111,Salsa de soja baja en sodio,Condimentos,42.91875,80
+112,Postre de merengue Pavlova,Reposteria,43.0725,81
+113,Te Dharamsala,Bebidas,43.22625,81
+114,Cerveza tibetana Barley,Bebidas,43.38,81
+115,Sirope de regaliz,Condimentos,43.53375,82
+116,Especias Cajun del chef Anton,Condimentos,43.6875,82
+117,Mezcla Gumbo del chef Anton,Condimentos,43.84125,83
+118,Mermelada de grosellas de la abuela,Condimentos,43.995,83
+119,Peras secas organicas del tio Bob,Frutas/Verduras,44.14875,84
+120,Salsa de arandanos Northwoods,Condimentos,44.3025,84
+121,Buey Mishi Kobe,Carnes,44.45625,85
+122,Pez espada,Pescado/Marisco,44.61,85
+123,Queso Cabrales,Lacteos,44.76375,85
+124,Queso Manchego La Pastora,Lacteos,44.9175,86
+125,Algas Konbu,Pescado/Marisco,45.07125,86
+126,Cuajada de judias,Frutas/Verduras,45.225,87
+127,Salsa de soja baja en sodio,Condimentos,45.37875,87
+128,Postre de merengue Pavlova,Reposteria,45.5325,88
+129,Te Dharamsala,Bebidas,45.68625,88
+130,Cerveza tibetana Barley,Bebidas,45.84,88
+131,Sirope de regaliz,Condimentos,45.99375,89
+132,Especias Cajun del chef Anton,Condimentos,46.1475,89
+133,Mezcla Gumbo del chef Anton,Condimentos,46.30125,90
+134,Mermelada de grosellas de la abuela,Condimentos,46.455,90
+135,Peras secas organicas del tio Bob,Frutas/Verduras,46.60875,91
+136,Salsa de arandanos Northwoods,Condimentos,46.7625,91
+137,Buey Mishi Kobe,Carnes,46.91625,92
+138,Pez espada,Pescado/Marisco,47.07,92
+139,Queso Cabrales,Lacteos,47.22375,92
+140,Queso Manchego La Pastora,Lacteos,47.3775,93
+141,Algas Konbu,Pescado/Marisco,47.53125,93
+142,Cuajada de judias,Frutas/Verduras,47.685,94
+143,Salsa de soja baja en sodio,Condimentos,47.83875,94
+144,Postre de merengue Pavlova,Reposteria,47.9925,95
+145,Te Dharamsala,Bebidas,48.14625,95
+146,Cerveza tibetana Barley,Bebidas,48.3,96
+147,Sirope de regaliz,Condimentos,48.45375,96
+148,Especias Cajun del chef Anton,Condimentos,48.6075,96
+149,Mezcla Gumbo del chef Anton,Condimentos,48.76125,97
+150,Mermelada de grosellas de la abuela,Condimentos,48.915,97
+151,Peras secas organicas del tio Bob,Frutas/Verduras,49.06875,98
+152,Salsa de arandanos Northwoods,Condimentos,49.2225,98
+153,Buey Mishi Kobe,Carnes,49.37625,99
+154,Pez espada,Pescado/Marisco,49.53,99
+155,Queso Cabrales,Lacteos,49.68375,100
+156,Queso Manchego La Pastora,Lacteos,49.8375,100
+157,Algas Konbu,Pescado/Marisco,49.99125,100
+158,Cuajada de judias,Frutas/Verduras,50.145,101
+159,Salsa de soja baja en sodio,Condimentos,50.29875,101
+160,Postre de merengue Pavlova,Reposteria,50.4525,102
+161,Te Dharamsala,Bebidas,50.60625,102
+162,Cerveza tibetana Barley,Bebidas,50.76,103
+163,Sirope de regaliz,Condimentos,50.91375,103
+164,Especias Cajun del chef Anton,Condimentos,51.0675,103
+165,Mezcla Gumbo del chef Anton,Condimentos,51.22125,104
+166,Mermelada de grosellas de la abuela,Condimentos,51.375,104
+167,Peras secas organicas del tio Bob,Frutas/Verduras,51.52875,105
+168,Salsa de arandanos Northwoods,Condimentos,51.6825,105
+169,Buey Mishi Kobe,Carnes,51.83625,106
+170,Pez espada,Pescado/Marisco,51.99,106
+171,Queso Cabrales,Lacteos,52.14375,107
+172,Queso Manchego La Pastora,Lacteos,52.2975,107
+173,Algas Konbu,Pescado/Marisco,52.45125,107
+174,Cuajada de judias,Frutas/Verduras,52.605,108
+175,Salsa de soja baja en sodio,Condimentos,52.75875,108
+176,Postre de merengue Pavlova,Reposteria,52.9125,109
+177,Te Dharamsala,Bebidas,53.06625,109
+178,Cerveza tibetana Barley,Bebidas,53.22,110
+179,Sirope de regaliz,Condimentos,53.37375,110
+180,Especias Cajun del chef Anton,Condimentos,53.5275,111
+181,Mezcla Gumbo del chef Anton,Condimentos,53.68125,111
+182,Mermelada de grosellas de la abuela,Condimentos,53.835,111
+183,Peras secas organicas del tio Bob,Frutas/Verduras,53.98875,112
+184,Salsa de arandanos Northwoods,Condimentos,54.1425,112
+185,Buey Mishi Kobe,Carnes,54.29625,113
+186,Pez espada,Pescado/Marisco,54.45,113
+187,Queso Cabrales,Lacteos,54.60375,114
+188,Queso Manchego La Pastora,Lacteos,54.7575,114
+189,Algas Konbu,Pescado/Marisco,54.91125,115
+190,Cuajada de judias,Frutas/Verduras,55.065,115
+191,Salsa de soja baja en sodio,Condimentos,55.21875,115
+192,Postre de merengue Pavlova,Reposteria,55.3725,116
+193,Te Dharamsala,Bebidas,55.52625,116
+194,Cerveza tibetana Barley,Bebidas,55.68,117
+195,Sirope de regaliz,Condimentos,55.83375,117
+196,Especias Cajun del chef Anton,Condimentos,55.9875,118
+197,Mezcla Gumbo del chef Anton,Condimentos,56.14125,118
+198,Mermelada de grosellas de la abuela,Condimentos,56.295,118
+199,Peras secas organicas del tio Bob,Frutas/Verduras,56.44875,119
+200,Salsa de arandanos Northwoods,Condimentos,56.6025,119
+201,Buey Mishi Kobe,Carnes,56.75625,120
+202,Pez espada,Pescado/Marisco,56.91,120
+203,Queso Cabrales,Lacteos,57.06375,121
+204,Queso Manchego La Pastora,Lacteos,57.2175,121
+205,Algas Konbu,Pescado/Marisco,57.37125,122
+206,Cuajada de judias,Frutas/Verduras,57.525,122
+207,Salsa de soja baja en sodio,Condimentos,57.67875,122
+208,Postre de merengue Pavlova,Reposteria,57.8325,123
+209,Te Dharamsala,Bebidas,57.98625,123
+210,Cerveza tibetana Barley,Bebidas,58.14,124
+211,Sirope de regaliz,Condimentos,58.29375,124
+212,Especias Cajun del chef Anton,Condimentos,58.4475,125
+213,Mezcla Gumbo del chef Anton,Condimentos,58.60125,125
+214,Mermelada de grosellas de la abuela,Condimentos,58.755,126
+215,Peras secas organicas del tio Bob,Frutas/Verduras,58.90875,126
+216,Salsa de arandanos Northwoods,Condimentos,59.0625,126
+217,Buey Mishi Kobe,Carnes,59.21625,127
+218,Pez espada,Pescado/Marisco,59.37,127
+219,Queso Cabrales,Lacteos,59.52375,128
+220,Queso Manchego La Pastora,Lacteos,59.6775,128
+221,Algas Konbu,Pescado/Marisco,59.83125,129
+222,Cuajada de judias,Frutas/Verduras,59.985,129
+223,Salsa de soja baja en sodio,Condimentos,60.13875,130
+224,Postre de merengue Pavlova,Reposteria,60.2925,130
+225,Te Dharamsala,Bebidas,60.44625,130
+226,Cerveza tibetana Barley,Bebidas,60.6,131
+227,Sirope de regaliz,Condimentos,60.75375,131
+228,Especias Cajun del chef Anton,Condimentos,60.9075,132
+229,Mezcla Gumbo del chef Anton,Condimentos,61.06125,132
+230,Mermelada de grosellas de la abuela,Condimentos,61.215,133
+231,Peras secas organicas del tio Bob,Frutas/Verduras,61.36875,133
+232,Salsa de arandanos Northwoods,Condimentos,61.5225,133
+233,Buey Mishi Kobe,Carnes,61.67625,134
+234,Pez espada,Pescado/Marisco,61.83,134
+235,Queso Cabrales,Lacteos,61.98375,135
+236,Queso Manchego La Pastora,Lacteos,62.1375,135
+237,Algas Konbu,Pescado/Marisco,62.29125,136
+238,Cuajada de judias,Frutas/Verduras,62.445,136
+239,Salsa de soja baja en sodio,Condimentos,62.59875,137
+240,Postre de merengue Pavlova,Reposteria,62.7525,137
+241,Te Dharamsala,Bebidas,62.90625,137
+242,Cerveza tibetana Barley,Bebidas,63.06,138
+243,Sirope de regaliz,Condimentos,63.21375,138
+244,Especias Cajun del chef Anton,Condimentos,63.3675,139
+245,Mezcla Gumbo del chef Anton,Condimentos,63.52125,139
+246,Mermelada de grosellas de la abuela,Condimentos,63.675,140
+247,Peras secas organicas del tio Bob,Frutas/Verduras,63.82875,140
+248,Salsa de arandanos Northwoods,Condimentos,63.9825,141
+249,Buey Mishi Kobe,Carnes,64.13625,141
